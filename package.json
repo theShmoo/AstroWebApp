@@ -3,7 +3,7 @@
   "description": "A web app to get your horoscope.",
   "author": "David Pfahler",
   "version": "0.0.1",
-  "homepage": "https://theshmoo.github.io/AstroBot",
+  "homepage": "https://theshmoo.github.io/AstroWebApp",
   "dependencies": {
     "@material-ui/core": "latest",
     "@material-ui/icons": "latest",
@@ -33,7 +33,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "repository": "github:theShmoo/DSA5WebTools",
+  "repository": "github:theShmoo/AstroWebApp",
   "engines": {
     "node": ">= 6.0.0",
     "npm": ">= 3.0.0"

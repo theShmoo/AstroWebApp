@@ -1,7 +1,6 @@
 import React from 'react';
 import { withStyles } from '@material-ui/core/styles';
 
-import Typography from '@material-ui/core/Typography';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
@@ -44,7 +43,6 @@ class Aztro extends React.Component {
     }).then(response => response.json())
     .then( json => { this.setState({zodiac_data: json})});
   }
-
 
   render()
   {
