@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/AstroWebApp/static/js/main.101a3f3c.chunk.js",
+    "main.js.map": "/AstroWebApp/static/js/main.101a3f3c.chunk.js.map",
+    "runtime-main.js": "/AstroWebApp/static/js/runtime-main.87d1a60d.js",
+    "runtime-main.js.map": "/AstroWebApp/static/js/runtime-main.87d1a60d.js.map",
+    "static/js/2.5570da79.chunk.js": "/AstroWebApp/static/js/2.5570da79.chunk.js",
+    "static/js/2.5570da79.chunk.js.map": "/AstroWebApp/static/js/2.5570da79.chunk.js.map",
+    "index.html": "/AstroWebApp/index.html",
+    "precache-manifest.023505cf0c752728f34b42f9237455ed.js": "/AstroWebApp/precache-manifest.023505cf0c752728f34b42f9237455ed.js",
+    "service-worker.js": "/AstroWebApp/service-worker.js",
+    "static/js/2.5570da79.chunk.js.LICENSE.txt": "/AstroWebApp/static/js/2.5570da79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87d1a60d.js",
+    "static/js/2.5570da79.chunk.js",
+    "static/js/main.101a3f3c.chunk.js"
+  ]
+}
